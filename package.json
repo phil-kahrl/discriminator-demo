@@ -1,0 +1,11 @@
+{
+  "name": "discriminator-demo",
+  "version": "1.0.0",
+  "description": "Demo on the use of the discriminator function from arccore.",
+  "main": "index.js",
+  "author": "Phillip Kahrl",
+  "license": "MIT",
+  "dependencies": {
+    "@encapsule/arccore": "^0.1.10"
+  }
+}
